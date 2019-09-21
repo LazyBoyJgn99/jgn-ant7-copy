@@ -1,0 +1,8 @@
+.Head{
+    background: #eee;
+    text-align: left;
+}
+.contentLayout{
+    min-height: 200px;
+    background: #999999;
+}
